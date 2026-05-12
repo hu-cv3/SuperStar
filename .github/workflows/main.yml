@@ -25,4 +25,4 @@ jobs:
           
       
       - name: Run main.py
-        run: python main.py -u 19190282640 -p  -l 123456HXL #课程id，1778579390239
+        run: python main.py -u 19190282640 -p 123456HXL -l  #课程id 263217129
